@@ -1,3 +1,3 @@
 # apnacollege
 my git repo for apna college
-Author - Pratikshya Mishra
+Author - Pratikshya Sahu
